@@ -1,0 +1,14 @@
+{
+  "name": "test1",
+  "module": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "mathjs": "^11.11.1"
+  }
+}
